@@ -1,2 +1,2 @@
 # Projeto-API-GitHub-DIO
-Neste projeto foi desenvolvido uma página que utiliza a API do GitHub para fazer a procura do repositório solicitado pelo usuário. Retornando ao usuário informações do repositório e um botão caso ele queria ver o repositório, além disto caso o usuário já tenha procurado por outros repositórios será retornado uma lista com todos os repositórios 
+Este projeto foi desenvolvido ao longo do curso "Formação React Developer", neste projeto é possivel buscar por repositórios do GitHub graças a utilização da API do GitHub, onde será fornecido informações sobre o repositório, além de uma lista dos repositórios já buscados. 
